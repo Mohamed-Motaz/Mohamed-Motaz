@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed247&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamed247)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mohamed247)](https://github.com/ryo-ma/github-profile-trophy)
