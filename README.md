@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am an aspiring student who is really passionate about learning! Thanks for stopping by!
 
 <!--
 **Mohamed247/Mohamed247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
